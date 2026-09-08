@@ -1,0 +1,7 @@
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\publish\winrt-tts.exe
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\publish\winrt-tts.dll
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\publish\winrt-tts.deps.json
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\publish\winrt-tts.runtimeconfig.json
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\publish\winrt-tts.pdb
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\publish\Microsoft.Windows.SDK.NET.dll
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\publish\WinRT.Runtime.dll

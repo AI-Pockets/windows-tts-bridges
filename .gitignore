@@ -1,0 +1,26 @@
+# Hermes executables (not part of TTS bridges)
+*.exe
+*.dll
+*.pdb
+*.runtimeconfig.json
+*.deps.json
+*.assets.json
+
+# Build artifacts
+obj/
+bin/
+*.user
+
+# Windows-specific
+Windows/
+
+# IDE
+.vs/
+*.suo
+*.user
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db

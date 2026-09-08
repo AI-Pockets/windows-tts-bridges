@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VnTyHmsvC1g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wade\\AppData\\Local\\hermes\\bin\\winrt-tts\\winrt-tts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wade\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}

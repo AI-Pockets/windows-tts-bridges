@@ -1,0 +1,17 @@
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\obj\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\obj\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.AssemblyInfoInputs.cache
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\obj\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.AssemblyInfo.cs
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\obj\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.csproj.CoreCompileInputs.cache
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\bin\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.exe
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\bin\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.deps.json
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\bin\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.runtimeconfig.json
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\bin\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.dll
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\bin\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.pdb
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\bin\Release\net9.0-windows10.0.19041.0\win-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\bin\Release\net9.0-windows10.0.19041.0\win-x64\WinRT.Runtime.dll
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\obj\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.csproj.Up2Date
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\obj\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.dll
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\obj\Release\net9.0-windows10.0.19041.0\win-x64\refint\winrt-tts.dll
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\obj\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.pdb
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\obj\Release\net9.0-windows10.0.19041.0\win-x64\winrt-tts.genruntimeconfig.cache
+C:\Users\Wade\AppData\Local\hermes\bin\winrt-tts\obj\Release\net9.0-windows10.0.19041.0\win-x64\ref\winrt-tts.dll
