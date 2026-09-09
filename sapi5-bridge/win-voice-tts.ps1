@@ -13,7 +13,7 @@
 #     provider: win-voice
 #     providers:
 #       win-voice:
-#         command: powershell -NoProfile -ExecutionPolicy Bypass -File C:\Users\Wade\AppData\Local\hermes\bin\win-voice-tts.ps1 -TextPath {text_path} -OutPath {output_path} -Voice {voice}
+#         command: powershell -NoProfile -ExecutionPolicy Bypass -File $LOCALAPPDATA/hermes/bin/win-voice-tts.ps1 -TextPath {text_path} -OutPath {output_path} -Voice {voice}
 #         format: wav
 #         voice_compatible: true
 #         timeout: 60
